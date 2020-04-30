@@ -86,13 +86,8 @@
     "ts-loader": "^6.2.1",
     "typescript": "3.1.6",
     "uglifyjs-webpack-plugin": "^1.1.1",
-<<<<<<< HEAD
-    "url-loader": "^0.5.8",
-=======
-    "uiv": "^0.27.0",
     "url-loader": "^0.5.8",
     "vue-jest": "^3.0.5",
->>>>>>> Add Vue execution output viewer
     "vue-loader": "^15.4.2",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "2.6.10",
